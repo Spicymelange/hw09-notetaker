@@ -1,0 +1,23 @@
+{
+  "name": "hw09-notetaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spicymelange/hw09-notetaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spicymelange/hw09-notetaker/issues"
+  },
+  "homepage": "https://github.com/Spicymelange/hw09-notetaker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
