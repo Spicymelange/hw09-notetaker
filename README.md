@@ -6,3 +6,4 @@
 
 <code> npm install </code>
 
+![](notetaker.gif)
